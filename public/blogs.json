@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co/rc5M2fm/4.jpg",
+    "title": "The Secret of Lost Treasures",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/dmQnk6x/boy1.png",
+    "posted_date": "Feb 12 (4 Days ago)",
+    "reading_time": 15,
+    "hashtags": ["#Adventure", "#Mystery", "#TreasureHunt"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co/CP2tKGh/3.png",
+    "title": "Midnight Whispers",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/FVCCHhk/girl2.jpg",
+    "posted_date": "Mar 2 (19 Days ago)",
+    "reading_time": 25,
+    "hashtags": ["#Thriller", "#Suspense", "#Mystery"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co/Y76kdqC/2.png",
+    "title": "A Journey Through Time",
+    "author": "Emily White",
+    "author_img": "https://i.ibb.co/X5w3fLH/girl1.jpg",
+    "posted_date": "Apr 25 (22 Days ago)",
+    "reading_time": 30,
+    "hashtags": ["#ScienceFiction", "#TimeTravel", "#Adventure"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co/p1v8mTn/1.jpg",
+    "title": "Culinary Delights",
+    "author": "Michael Green",
+    "author_img": "https://i.ibb.co/sv0hHFk/boy2.jpg",
+    "posted_date": "Dec 21 (12 Days ago)",
+    "reading_time": 20,
+    "hashtags": ["#Cookbook", "#Recipes", "#Foodie"]
+  }
+]
